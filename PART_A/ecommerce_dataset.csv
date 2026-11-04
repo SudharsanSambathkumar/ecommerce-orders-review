@@ -1,0 +1,101 @@
+order_id,product,category,qty,unit_price
+O1,Wireless Mouse,electronics,3,20.0
+O2,wireless mouse,Electronics,2,20.0
+O3,Yoga Mat,,5,15.0
+O4,Desk Lamp,Home,1,25.0
+O5,Yoga Mat,Fitness,2,15.0
+O6,Yoga Mat,,3,15.0
+O7,Bluetooth Headphones,Electronics,1,45.0
+O8,Laptop Stand,,4,28.0
+O9,Wireless Mouse,,2,20.0
+O10,Bluetooth Headphones,Electronics,1,45.0
+O11,Laptop Stand,,5,28.0
+O12,Keyboard,Electronics,5,30.0
+O13,Water Bottle,Fitness,1,12.0
+O14,Desk Lamp,Home,3,25.0
+O15,Water Bottle,,3,12.0
+O16,Yoga Mat,,1,15.0
+O17,Office Chair,Home,5,120.0
+O18,Water Bottle,Fitness,4,12.0
+O19,Laptop Stand,,4,28.0
+O20,Yoga Mat,Fitness,5,15.0
+O21,Office Chair,Home,1,120.0
+O22,Wireless Mouse,Electronics,3,20.0
+O23,Yoga Mat,Fitness,1,15.0
+O24,Keyboard,Electronics,3,30.0
+O25,Desk Lamp,Home,2,25.0
+O26,Water Bottle,Fitness,1,12.0
+O27,Resistance Bands,Fitness,5,18.0
+O28,Bluetooth Headphones,,4,45.0
+O29,Water Bottle,Fitness,5,12.0
+O30,Bluetooth Headphones,Electronics,1,45.0
+O31,Bluetooth Headphones,Electronics,3,45.0
+O32,Keyboard,Electronics,2,30.0
+O33,Resistance Bands,Fitness,3,18.0
+O34,Bluetooth Headphones,Electronics,4,45.0
+O35,Dumbbells,,2,35.0
+O36,Bluetooth Headphones,Electronics,5,45.0
+O37,Water Bottle,Fitness,4,12.0
+O38,Resistance Bands,Fitness,2,18.0
+O39,Desk Lamp,Home,1,25.0
+O40,Wireless Mouse,Electronics,2,20.0
+O41,Desk Lamp,Home,4,25.0
+O42,Resistance Bands,,4,18.0
+O43,Resistance Bands,Fitness,5,18.0
+O44,Water Bottle,Fitness,1,12.0
+O45,Yoga Mat,Fitness,5,15.0
+O46,Water Bottle,Fitness,3,12.0
+O47,Yoga Mat,Fitness,2,15.0
+O48,Dumbbells,,3,35.0
+O49,Laptop Stand,Home,5,28.0
+O50,Yoga Mat,Fitness,3,15.0
+O51,Laptop Stand,Home,2,28.0
+O52,Office Chair,Home,5,120.0
+O53,Laptop Stand,Home,5,28.0
+O54,Office Chair,Home,1,120.0
+O55,Office Chair,Home,3,120.0
+O56,Bluetooth Headphones,,5,45.0
+O57,Yoga Mat,,4,15.0
+O58,Yoga Mat,Fitness,5,15.0
+O59,Desk Lamp,,4,25.0
+O60,Laptop Stand,,5,28.0
+O61,Resistance Bands,Fitness,2,18.0
+O62,Laptop Stand,Home,2,28.0
+O63,Water Bottle,Fitness,3,12.0
+O64,Dumbbells,Fitness,4,35.0
+O65,Yoga Mat,Fitness,1,15.0
+O66,Office Chair,,5,120.0
+O67,Bluetooth Headphones,Electronics,1,45.0
+O68,Yoga Mat,Fitness,1,15.0
+O69,Bluetooth Headphones,,1,45.0
+O70,Office Chair,,2,120.0
+O71,Water Bottle,Fitness,2,12.0
+O72,Laptop Stand,,5,28.0
+O73,Resistance Bands,Fitness,4,18.0
+O74,Keyboard,,1,30.0
+O75,Keyboard,Electronics,4,30.0
+O76,Dumbbells,Fitness,1,35.0
+O77,Yoga Mat,,3,15.0
+O78,Yoga Mat,Fitness,2,15.0
+O79,Laptop Stand,Home,4,28.0
+O80,Desk Lamp,Home,2,25.0
+O81,Yoga Mat,Fitness,5,15.0
+O82,Yoga Mat,,5,15.0
+O83,Wireless Mouse,Electronics,2,20.0
+O84,Desk Lamp,Home,4,25.0
+O85,Bluetooth Headphones,Electronics,1,45.0
+O86,Desk Lamp,Home,4,25.0
+O87,Water Bottle,Fitness,4,12.0
+O88,Water Bottle,Fitness,5,12.0
+O89,Dumbbells,,3,35.0
+O90,Bluetooth Headphones,Electronics,5,45.0
+O91,Laptop Stand,,3,28.0
+O92,Wireless Mouse,,4,20.0
+O93,Laptop Stand,Home,5,28.0
+O94,Desk Lamp,,5,25.0
+O95,Yoga Mat,Fitness,1,15.0
+O96,Resistance Bands,,2,18.0
+O97,Keyboard,,5,30.0
+O98,Bluetooth Headphones,Electronics,1,45.0
+O99,Resistance Bands,,5,18.0
+O100,Resistance Bands,Fitness,3,18.0
