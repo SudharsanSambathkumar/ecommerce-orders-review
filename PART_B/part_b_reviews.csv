@@ -1,0 +1,5 @@
+review_id,customer_id,product_id,review_text,reference_sentiment,llm_sentiment
+R001,C001,P001,Works fine but the battery died in a week.,mixed,positive
+R002,C002,P002,"Exactly what I needed, five stars!",positive,positive
+R003,C003,P003,"Arrived broken, waste of money.",negative,negative
+R004,C001,P002,"It's okay, nothing special.",neutral,positive
