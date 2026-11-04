@@ -24,12 +24,19 @@ data = [
 
 # Synthetic products and reviews
 products = [
+    ("Wireless Mouse", "Electronics", 20.0),
+    ("Yoga Mat", "Fitness", 15.0),
+    ("Desk Lamp", "Home", 25.0),
     ("Bluetooth Headphones", "Electronics", 45.0),
     ("Water Bottle", "Fitness", 12.0),
     ("Office Chair", "Home", 120.0),
     ("Keyboard", "Electronics", 30.0),
-    ("Dumbbells", "Fitness", 35.0)
+    ("Dumbbells", "Fitness", 35.0),
+    ("Laptop Stand", "Home", 28.0),
+    ("Resistance Bands", "Fitness", 18.0)
 ]
+
+
 
 reviews = [
     ("Excellent product, very happy!", "positive"),
@@ -40,20 +47,23 @@ reviews = [
 
 customers = ["C001", "C002", "C003", "C004", "C005"]
 
-# Generate 20 synthetic orders with reviews
-for i in range(1, 21):
-
+# Generate 96 synthetic orders with reviews
+for i in range(6, 101):
     product, category, price = random.choice(products)
+
+    # Random missing categories  with 20% probability
+    if random.random() < 0.20:
+        category = None
     review_text, sentiment = random.choice(reviews)
 
     data.append([
-        f"SO{i:03d}",
+        f"O{i}",
         random.choice(customers),
         product,
         category,
         random.randint(1, 5),
         price,
-        f"SR{i:03d}",
+        f"R{i:03d}",
         review_text,
         sentiment,
         sentiment,
